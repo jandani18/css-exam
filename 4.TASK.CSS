@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.MAIN{
+    height: 100vh;
+    
+    background-color: black;
+    color: white;
+}
+h1{
+    padding-left: 40%;
+    padding-top: 20%;
+}
+p{
+    text-align: center;
+    padding: 30px;
+    padding-bottom: 20px;
+}
+.fa-facebook{
+    padding-left: 47%;
+}
+.par p{
+    color: wheat;
+    padding-left: 30px;
+    font-size: 40px;
+}

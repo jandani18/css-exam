@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+  .main{
+    display: flex;
+    height: 530px;
+    background-color: lightgray;
+  }
+  .para{
+   
+  
+    font-size: 30px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+  }
+  .img{
+    border-radius: 80px;
+  }
+.main1{
+   display: flex;
+}
+.para1{
+   
+    background-color: lightgray;
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    color: darkcyan;
+  }
+  .h1{
+font-size: 50px;
+background-color: lightgray;
+color: black;
+padding-left: 500px;
+font-family: cursive;
+padding-bottom: 30px;
+  }

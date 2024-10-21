@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.MAIN{
+    display: flex;
+   
+}
+
+.MAIN1{
+    margin-right: 30PX;
+}
+.MAIN0 h1{
+margin-top: 80PX;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-bottom: 60PX;
+margin-left: 50px;
+}
+/* .data{
+    text-align: justify;
+}
+.data1{
+    text-align: justify;
+}
+.data2{
+    text-align: justify;
+}
+.data3{
+    text-align: justify;
+}
+.data4{
+    text-align: justify;
+} */
+.text input{
+    border: none;
+    border-bottom: 2px solid black;
+    background: transparent;
+    outline: none;
+    margin-left: 230px;
+    
+}
+.data p{
+margin-top: 30px;
+}
+.email input{
+    border: none;
+    border-bottom: 2px solid black;
+    background: transparent;
+    outline: none;
+    margin-left: 230px;
+}
+.phn input{
+    border: none;
+    border-bottom: 2px solid black;
+    background: transparent;
+    outline: none;
+    margin-left: 230px;
+}
+.pass input{
+    border: none;
+    border-bottom: 2px solid black;
+    background: transparent;
+    outline: none;
+    margin-left: 230px;
+}
+.cpass input{
+    border: none;
+    border-bottom: 2px solid black;
+    background: transparent;
+    outline: none;
+    margin-left: 230px;
+}
+.MAIN0 P{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 40px;
+}
